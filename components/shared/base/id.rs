@@ -369,6 +369,8 @@ namespace_id! {DomPointId, DomPointIndex, "DomPoint"}
 
 namespace_id! {DomExceptionId, DomExceptionIndex, "DomException"}
 
+namespace_id! {QuotaExceededErrorId, QuotaExceededErrorIndex, "QuotaExceededError"}
+
 namespace_id! {HistoryStateId, HistoryStateIndex, "HistoryState"}
 
 namespace_id! {ImageBitmapId, ImageBitmapIndex, "ImageBitmap"}
